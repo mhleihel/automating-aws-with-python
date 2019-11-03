@@ -1,2 +1,2 @@
 # automating-aws-with-python
-Repo for class
+Repository for Cloud.guru Python-AWS class
